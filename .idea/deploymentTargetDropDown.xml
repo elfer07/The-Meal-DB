@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Nexus_5X_API_31.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-07-19T00:40:58.445597Z" />
+        </State>
+      </entry>
+      <entry key="get_all_meals_returns_all_items_from_database()">
+        <State />
+      </entry>
+      <entry key="insert_meal_into_database()">
+        <State />
+      </entry>
+      <entry key="inserts meal into database()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
